@@ -11,7 +11,7 @@ class FirstVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+print("ytyu")
         // Do any additional setup after loading the view.
     }
     
