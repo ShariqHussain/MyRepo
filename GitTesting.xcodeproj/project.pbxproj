@@ -17,6 +17,7 @@
 		3F2F0BBA29CEE0C600A7EAE1 /* GitTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2F0BB929CEE0C600A7EAE1 /* GitTestingTests.swift */; };
 		3F2F0BC429CEE0C600A7EAE1 /* GitTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2F0BC329CEE0C600A7EAE1 /* GitTestingUITests.swift */; };
 		3F2F0BC629CEE0C600A7EAE1 /* GitTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2F0BC529CEE0C600A7EAE1 /* GitTestingUITestsLaunchTests.swift */; };
+		3F2F0BD329CEE4A000A7EAE1 /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2F0BD229CEE4A000A7EAE1 /* FirstVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3F2F0BBF29CEE0C600A7EAE1 /* GitTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F2F0BC329CEE0C600A7EAE1 /* GitTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestingUITests.swift; sourceTree = "<group>"; };
 		3F2F0BC529CEE0C600A7EAE1 /* GitTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F2F0BD229CEE4A000A7EAE1 /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				3F2F0B9F29CEE0C400A7EAE1 /* AppDelegate.swift */,
+				3F2F0BD229CEE4A000A7EAE1 /* FirstVC.swift */,
 				3F2F0BA129CEE0C400A7EAE1 /* SceneDelegate.swift */,
 				3F2F0BA329CEE0C400A7EAE1 /* ViewController.swift */,
 				3F2F0BA529CEE0C400A7EAE1 /* Main.storyboard */,
@@ -264,6 +267,7 @@
 				3F2F0BA429CEE0C400A7EAE1 /* ViewController.swift in Sources */,
 				3F2F0BAA29CEE0C400A7EAE1 /* GitTesting.xcdatamodeld in Sources */,
 				3F2F0BA029CEE0C400A7EAE1 /* AppDelegate.swift in Sources */,
+				3F2F0BD329CEE4A000A7EAE1 /* FirstVC.swift in Sources */,
 				3F2F0BA229CEE0C400A7EAE1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
